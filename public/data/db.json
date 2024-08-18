@@ -1,0 +1,24 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "5 způsobů, jak efektivně využívat čas a zlepšit produktivitu",
+      "text": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore optio, architecto repellat ratione ab mollitia nulla explicabo rerum magnam qui. Blanditiis praesentium et earum dolorem vero sit impedit adipisci. ItaqueLorem ipsum dolor sit amet consectetur adipisicing elit. Tempore optio, architecto repellat ratione ab mollitia nulla explicabo rerum magnam qui. Blanditiis praesentium et earum dolorem vero sit impedit adipisci. ItaqueLorem ipsum dolor sit amet consectetur adipisicing elit. Tempore optio, architecto repellat ratione ab mollitia nulla explicabo rerum magnam qui. Blanditiis praesentium et earum dolorem vero sit impedit adipisci. ItaqueLorem ipsum dolor sit amet consectetur adipisicing elit. Tempore optio, architecto repellat ratione ab mollitia nulla explicabo rerum magnam qui. Blanditiis praesentium et earum dolorem vero sit impedit adipisci. ItaqueLorem ipsum dolor sit amet consectetur adipisicing elit. Tempore optio, architecto repellat ratione ab mollitia nulla explicabo rerum magnam qui. Blanditiis praesentium et earum dolorem vero sit impedit adipisci. ItaqueLorem ipsum dolor sit amet consectetur adipisicing elit. Tempore optio, architecto repellat ratione ab mollitia nulla explicabo rerum magnam qui. Blanditiis praesentium et earum dolorem vero sit impedit adipisci. ItaqueLorem ipsum dolor sit amet consectetur adipisicing elit. Tempore optio, architecto repellat ratione ab mollitia nulla explicabo rerum magnam qui. Blanditiis praesentium et earum dolorem vero sit impedit adipisci. ItaqueLorem ipsum dolor sit amet consectetur adipisicing elit. Tempore optio, architecto repellat ratione ab mollitia nulla explicabo rerum magnam qui. Blanditiis praesentium et earum dolorem vero sit impedit adipisci. Itaque"
+    },
+    {
+      "id": 2,
+      "title": "Blog 2",
+      "text": "asdasdasdasdasdasdasdasdasdasdasdasdas asdfa asdfasdf "
+    },
+    {
+      "id": 3,
+      "title": "Blog 3",
+      "text": "loresicing elit. Temporea sdffasdfsda fsdafsdafasdf asdasdfasdfasdffa sdfasdfasdf sdafas optio, architecto repellatasdsdsdsd sdsds dsdsdsdsdsd ratione ab mollitia nulla explicabo rerum magnamasddd dddddddddddddd qu "
+    },
+    {
+      "id": 4,
+      "title": "Blog 4",
+      "text": "asddddddddddddddgdfsgsdfh "
+    }
+  ]
+}
